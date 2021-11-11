@@ -1,1 +1,1 @@
-# sch_robotics
+# sch-robotics
